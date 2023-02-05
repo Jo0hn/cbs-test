@@ -46,9 +46,9 @@
                     }
                     
                     $messages->sendMessage($idMessage, $status);
-                    if($error=0){
+                    if($error==0){
                         header("Location: ".site_url()."/message?res=1");    
-                    }elseif($error=1){
+                    }elseif($error==1){
                         header("Location: ".site_url()."/message?res=6");  
                     }
                     

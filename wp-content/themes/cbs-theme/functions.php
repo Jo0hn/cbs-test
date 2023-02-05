@@ -49,4 +49,3 @@ function jquery_table_js() {
 add_action( 'wp_enqueue_scripts', 'jquery_table_js');
 
 ?>
-

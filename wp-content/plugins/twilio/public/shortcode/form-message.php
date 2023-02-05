@@ -34,4 +34,3 @@ function add_message_form(){
 }
 add_shortcode("show_message_form","add_message_form");
 ?>
-

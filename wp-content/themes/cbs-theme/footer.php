@@ -4,4 +4,3 @@
         <p class="mb-1">&copy; 2023 John Acevedo</p>
     </footer>
 </html>
-
